@@ -1,4 +1,6 @@
-# Olá, eu sou Lucas Jesus (lucasjssilva) 👋
+<h1 align="center">
+   Olá, eu sou Lucas Jesus (lucasjssilva) 👋
+</h1>
 
 ## Sobre mim
 

@@ -33,7 +33,7 @@
 ### ⚙️ GitHub Analytics
 
 <div>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lucasjssilva&show_icons=true&theme=monokai"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lucasjssilva&show_icons=true&theme=monokai&cache_seconds=1800"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjssilva&theme=monokai&layout=compact"/>
 </div>
 
